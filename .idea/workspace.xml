@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a01e6edc-e924-4792-8f10-e58b7738fe9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/homework/ArrayOverrun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/homework/ArraySizeIsNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/homework/DivisionByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/homework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/task_1/UserInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/task_2/ExceptionCauseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/task_3/CheckedExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/task_4/TooBigAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/task_4/TooSmallAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_04/task_4/UserExceptionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2YXcaHRpnkGlnkfIs1vSE8QMt7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/selun/IdeaProjects/Checkers/lesson_04_exceptions"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_04.homework.Main" />
+      <module name="lesson_04_exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_04.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_04.task_1.UserInputTest" />
+      <module name="lesson_04_exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_04.task_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UserInputTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a01e6edc-e924-4792-8f10-e58b7738fe9f" name="Changes" comment="" />
+      <created>1700675427720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700675427720</updated>
+    </task>
+    <servers />
+  </component>
+</project>
